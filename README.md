@@ -1,4 +1,4 @@
-# Common-Error-fix-apt-get-update-apt-get-upgrade
+# Common-Error-fix-nh-apt-get-update-apt-get-upgrade
 While doing apt-get update or apt-get upgrade, you might encounter an error. Here is the fix
 ## fix
 * `nano usr/lib/cnf-update-db/`
